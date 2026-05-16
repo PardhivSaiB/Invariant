@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+google-genai
+mcp
+fastmcp
+httpx
+python-dotenv
+beautifulsoup4
+tenacity

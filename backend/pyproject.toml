@@ -1,0 +1,20 @@
+[project]
+name = "dsa-mentor-backend"
+version = "0.1.0"
+description = "Backend for AI DSA Mentor"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+    "pydantic-settings",
+    "google-genai",
+    "mcp",
+    "fastmcp",
+    "httpx",
+    "python-dotenv",
+    "beautifulsoup4",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
